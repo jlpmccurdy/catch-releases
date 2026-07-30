@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Catch</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 30 Jul 2026 10:31:40 +0800</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jlpmccurdy/catch-releases/main/releases/Catch-15.zip" length="1421450" type="application/octet-stream" sparkle:edSignature="qtFKbrjNBACaAB2kwBbXtHQTwBw3KFuC8ws5uiLu35R5uF2UzQS5vHIBWLj+IYrqNiXfJDxQ6cd89uRcI5+IDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jlpmccurdy/catch-releases/main/releases/Catch15-11.delta" sparkle:deltaFrom="11" length="115594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ewGBLFowFLG86dDpPjvrifwTeREUeinahQuU4M8MuuFT4rVC2xnO5HkE0GGnTn0ElAW5oDdqO3uWP4l7efU2Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 06 Jul 2026 23:02:24 +0800</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jlpmccurdy/catch-releases/main/releases/Catch-11.zip" length="1400442" type="application/octet-stream" sparkle:edSignature="LPTCceRHTd0sxJTGgqKFo9htiSg6Wt/71RDC/qoTuU+E0tzhirfSUSk5w1HfhAyFkq2CS2SPVjKucHgUr6A3Dw=="/>
+        </item>
+    </channel>
+</rss>
